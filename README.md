@@ -19,7 +19,6 @@
 
 ---
 
-
 ## Project Overview
 
 This project is an end-to-end Customer Churn Prediction and Business Intelligence solution designed to identify customers at risk of leaving a telecom company and provide actionable business insights.
