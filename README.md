@@ -19,7 +19,12 @@
 
 ---
 
-![Profile Screenshot](assets/customer_executive.png)
+<p align="center">
+	<img src="assets/customer_executive.png" alt="Executive" width="220" />
+	<img src="assets/customer_churn.png" alt="Churn" width="220" />
+	<img src="assets/customer_predi.png" alt="Predictions" width="220" />
+	<img src="assets/top_factor.png" alt="Top Factors" width="220" />
+</p>
 
 ## Project Overview
 
